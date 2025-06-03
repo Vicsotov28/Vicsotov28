@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 soy Vicente Soto / Vicsotov28 ⚡</h1>
+<h1 align="center">Hola 👋 Mi Nombre es Vicente Soto Bienvenido a Mi github⚡</h1>
 
 <p align="left">
   <a href="mailto:vicentesotov28@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -10,21 +10,21 @@
 <h2>Sobre mí 😎</h2>
 
 <p align="left">
-🎓 Estudiante de Ingeniería en Informática en Duoc UC, sede Antonio Varas.  
-💻 Apasionado por la programación, con enfoque en backend y análisis de datos.  
-📊 Interesado en SQL, desarrollo de microservicios y Data Analytics.  
-👨‍🎓 Actualmente en cuarto semestre y siempre buscando aprender más.  
-⚽ En mis tiempos libres juego fútbol y soy bajista en una banda llamada <strong>Maldita Existencia</strong> 🦇  
-📫 Contacto directo: vicentesotov28@gmail.com
+🎓 Estudiante de Ingeniería en Informática en Duoc UC, sede Antonio Varas. <br>
+💻 Apasionado por la programación, con enfoque en desarrollo full stack y Data Analytics. <br>
+📊 Interesado en SQL, desarrollo de microservicios y Data Analytics. <br>
+👨‍🎓 Actualmente en Quinto semestre y siempre buscando aprender más y crecer Profesionalmente. <br>
+⚽ En mis tiempos libres escucho musica, me dedico a componer canciones y continuar mis proyectos propios. <br>
+📫 Contacto directo: <strong>vicentesotov28@gmail.com</strong>
 </p>
 
 <br>
 
-<h2>Tecnologías y herramientas 🛠️</h2>
+<h2>Tecnologías y herramientas conocidas 🛠️</h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,py,js,html,css,git,github,vscode,netbeans,intellij,postman,maven&perline=10" />
+    <img src="https://skillicons.dev/icons?i=anaconda,css,django,git,github,html,js,linkedin,maven,mysql,postgres,postman,py,react,spring,vscode," />
   </a>
 </p>
 
